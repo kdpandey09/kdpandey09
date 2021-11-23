@@ -4,7 +4,7 @@ I am Developer.
 I like to develop things which are beneficial to the community.
 <br>
 
-### My social media handles 👇🏻
+### My social media handles  👇🏻
 <a href="https://www.linkedin.com/in/kaustub-dutt-pandey-9921b920a/"> ![Kaustub dutt Pandey](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a>
 <a href="https://twitter.com/PandeyKaustub">![alt text](https://img.shields.io/badge/-Twitter-1DA1F2?style=plastic&logo=Twitter) </a>
 
