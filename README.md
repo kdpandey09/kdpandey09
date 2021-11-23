@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hey there, I am KAUSTUB DUTT PANDEY👋
+I am Developer.
+<br>
+I like to develop things which are beneficial to the community.
+<br>
 
-<!--
-**kdpandey09/kdpandey09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### My social media handles 👇🏻
+<a href="https://www.linkedin.com/in/kaustub-dutt-pandey-9921b920a/"> ![Kaustub dutt Pandey](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a>
+<a href="https://twitter.com/PandeyKaustub">![alt text](https://img.shields.io/badge/-Twitter-1DA1F2?style=plastic&logo=Twitter) </a>
 
-Here are some ideas to get you started:
+[![Kaustub's github stats](https://github-readme-stats.vercel.app/api?username=kdpandey09)](https://github.com/kdpandey09/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kdpandey09&layout=compact)](https://github.com/kdpandey09/github-readme-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kdpandey09&theme=buefy)](https://git.io/streak-stats)
