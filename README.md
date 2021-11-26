@@ -7,7 +7,7 @@ I am Developer.
 <br>
 I like to develop things which are beneficial to the community.
 <br>
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kdpandey09" alt="kdpandey09" /></a> </p>
 ### My social media handles  👇🏻
 <a href="https://www.linkedin.com/in/kaustub-dutt-pandey-9921b920a/"> ![KDP](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a>
 <a href="https://twitter.com/PandeyKaustub">![KDP](https://img.shields.io/badge/-Twitter-1DA1F2?style=plastic&logo=Twitter) </a>
