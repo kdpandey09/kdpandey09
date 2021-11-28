@@ -3,7 +3,7 @@
 
 
 ### Hey there, I am KAUSTUB DUTT PANDEY👋
-I am Developer.
+I am a Developer.
 <br>
 I like to develop things which are beneficial to the community.
 <br>
